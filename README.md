@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Susmita Shrestha
 
-[![github](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/github.png)](https://github.com/iamsusmitashrestha) [![LinkedIn](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png)](https://www.linkedin.com/in/susmita-shrestha/) [![instagram](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://instagram.com/dazzling.sus)
+[![github](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/github.png)](https://github.com/iamsusmitashrestha) [![LinkedIn](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png)](https://www.linkedin.com/in/susmita-shrestha-348a74179/) [![instagram](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://instagram.com/dazzling.sus)
 
 - Computer Science at Kathmandu University
 
