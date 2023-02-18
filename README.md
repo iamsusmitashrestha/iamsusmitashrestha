@@ -8,6 +8,7 @@ I am a skilled Flutter Developer with experience developing mobile applications 
 
 *   🌍  I'm based in Kathmandu, Nepal
 *   ✉️  You can contact me at [susmitashrestha.dev@gmail.com](mailto:susmitashrestha.dev@gmail.com)
+
 <a href="https://www.github.com/iamsusmitashrestha" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/iamsusmitashrestha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
