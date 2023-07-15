@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Passionate Flutter developer
 ----------------------------
 
-I am a skilled Flutter Developer with experience developing mobile applications for both iOS and Android platforms. I am passionate about staying up-to-date with the latest technology trends and constantly seeking to improve my existing skill set. Currently, I am interested in mastering web technologies to become a more versatile engineer and deliver even better software solutions. I have collaborated on the development of various projects and I am open to opportunities. My knowledge of technologies such as Flutter, MVVM, Clean Architecture, API Integration, and Git, combined with my experience working in team environments, allow me to deliver high-quality software solutions that meet user needs and expectations.
+I am a skilled Flutter Developer with experience developing mobile applications for both iOS and Android platforms. I am passionate about staying up-to-date with the latest technology trends and constantly seeking to improve my existing skill set. Currently, I am interested in mastering web technologies to become a more versatile engineer and deliver even better software solutions. I have collaborated on the development of various projects and I am open to opportunities. My knowledge of technologies such as Flutter, MVVM, Clean Architecture and API Integration combined with my experience working in team environments, allow me to deliver high-quality software solutions that meet user needs and expectations.
 
 *   🌍  I'm based in Kathmandu, Nepal
 *   ✉️  You can contact me at [susmitashrestha.dev@gmail.com](mailto:susmitashrestha.dev@gmail.com)
