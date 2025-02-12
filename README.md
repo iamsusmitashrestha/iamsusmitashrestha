@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Susmita Shrestha
 ========================================================================================================================================
 
-Passionate Flutter developer
+Enthusiastic Software Engineer
 ----------------------------
 
-I am a skilled Flutter Developer with experience developing mobile applications for both iOS and Android platforms. I am passionate about staying up-to-date with the latest technology trends and constantly seeking to improve my existing skill set. Currently, I am interested in mastering web technologies to become a more versatile engineer and deliver even better software solutions. I have collaborated on the development of various projects and I am open to opportunities. My knowledge of technologies such as Flutter, MVVM, Clean Architecture and API Integration combined with my experience working in team environments, allow me to deliver high-quality software solutions that meet user needs and expectations.
+Enthusiastic Software Engineer with experience in developing web and mobile applications using modern technologies. Skilled in front-end and back-end development, and implementing scalable architectures. A passionate learner with strong problem-solving skills, eager to tackle challenging projects and drive innovation.
 
 *   🌍  I'm based in Kathmandu, Nepal
 *   ✉️  You can contact me at [susmitashrestha.dev@gmail.com](mailto:susmitashrestha.dev@gmail.com)
