@@ -7,6 +7,7 @@ Enthusiastic Software Engineer
 Enthusiastic Software Engineer with experience in developing web and mobile applications using modern technologies. Skilled in front-end and back-end development, and implementing scalable architectures. A passionate learner with strong problem-solving skills, eager to tackle challenging projects and drive innovation.
 
 *   🌍  I'm based in Kathmandu, Nepal
+*   Portfolio: https://susmitashrestha.com.np
 *   ✉️  You can contact me at [susmitashrestha.dev@gmail.com](mailto:susmitashrestha.dev@gmail.com)
 
 <a href="https://www.github.com/iamsusmitashrestha" target="_blank" rel="noreferrer"><img
