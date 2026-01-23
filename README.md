@@ -6,9 +6,9 @@ Enthusiastic Software Engineer
 
 Enthusiastic Software Engineer with experience in developing web and mobile applications using modern technologies. Skilled in front-end and back-end development, and implementing scalable architectures. A passionate learner with strong problem-solving skills, eager to tackle challenging projects and drive innovation.
 
-*   🌍  I'm based in Kathmandu, Nepal
-*   Portfolio: https://susmitashrestha.com.np
-*   ✉️  You can contact me at [susmitashrestha.dev@gmail.com](mailto:susmitashrestha.dev@gmail.com)
+*   I'm based in Kathmandu, Nepal
+*   Visit my website at https://susmitashrestha.com.np
+*   You can contact me at [susmitashrestha.dev@gmail.com](mailto:susmitashrestha.dev@gmail.com)
 
 <a href="https://www.github.com/iamsusmitashrestha" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/iamsusmitashrestha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -34,15 +34,3 @@ Enthusiastic Software Engineer with experience in developing web and mobile appl
 ### Socials
                   
 <p align="left"> <a href="https://discord.com/users/Susmita#0818" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/iamsusmitashrestha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/susmitashrestha--dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/iamsusmitashrestha"><img src="https://github-readme-stats.vercel.app/api?username=iamsusmitashrestha&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="iamsusmitashrestha's GitHub stats" /></a>
-
-<a href="http://www.github.com/iamsusmitashrestha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsusmitashrestha&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/iamsusmitashrestha"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=iamsusmitashrestha&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/iamsusmitashrestha" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsusmitashrestha&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
