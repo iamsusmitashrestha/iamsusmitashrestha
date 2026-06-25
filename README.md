@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Enthusiastic Software Engineer
 ----------------------------
 
-Enthusiastic Software Engineer with experience in developing web and mobile applications using modern technologies. Skilled in front-end and back-end development, and implementing scalable architectures. A passionate learner with strong problem-solving skills, eager to tackle challenging projects and drive innovation.
+Senior Software Engineer with experience in developing web and mobile applications using modern technologies. Skilled in front-end and back-end development, and implementing scalable architectures. A passionate learner with strong problem-solving skills, eager to tackle challenging projects and drive innovation.
 
 *   I'm based in Kathmandu, Nepal
 *   Visit my website at https://susmitashrestha.com.np
